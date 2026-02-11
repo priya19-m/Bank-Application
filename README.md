@@ -32,6 +32,10 @@ Step 5: Run the Main Class
 Go to com.wipro.bank.main → BankMain.java
 Right-click → Run As → Java Application
 ## Output:
+
+<img width="593" height="249" alt="Screenshot 2026-02-11 231029" src="https://github.com/user-attachments/assets/43f741ea-44db-4968-a7f4-7690589f6f64" />
+<img width="589" height="479" alt="Screenshot 2026-02-11 231102" src="https://github.com/user-attachments/assets/456dfb3f-3674-41da-a816-88c4f3b04b87" />
+
 <img width="1082" height="256" alt="Screenshot 2026-01-29 113350" src="https://github.com/user-attachments/assets/d02b0bd1-4265-4d0b-a8ce-784a75aa4bd2" />
 <img width="1079" height="344" alt="Screenshot 2026-01-29 113320" src="https://github.com/user-attachments/assets/b533c16e-4702-468e-8486-0543f87c05a0" />
 <img width="1074" height="311" alt="Screenshot 2026-01-29 113231" src="https://github.com/user-attachments/assets/2523f6a7-b5a1-4ee1-94e6-ba2ca1d3b049" />
